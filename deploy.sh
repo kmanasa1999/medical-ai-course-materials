@@ -2,8 +2,8 @@
 
 cd medical-ai-course-materials
 
-git config user.email "shunta@preferred.jp"
-git config user.name "Shunta Saito"
+git config user.email "kondameedimanasa@gmail.com"
+git config user.name "kmanasa1999"
 
 git add -A
 git commit -m "Deploy to GitHub Pages"
