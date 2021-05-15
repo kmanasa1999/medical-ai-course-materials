@@ -1,11 +1,11 @@
 #!/bin/bash
 
 URLBASE="https://japan-medical-ai.github.io/medical-ai-course-materials/notebooks/"
-OPEN_IN_COLAB_PREFIX="https://colab.research.google.com/github/japan-medical-ai/medical-ai-course-materials"
+OPEN_IN_COLAB_PREFIX="https://colab.research.google.com/github/kmanasa1999/medical-ai-course-materials"
 NOTEBOOK_DIR="notebooks"
 
 if [ ! -d /medical-ai-course-materials ]; then
-    git clone https://github.com/japan-medical-ai/medical-ai-course-materials
+    git clone https://github.com/kmanasa1999/medical-ai-course-materials
 fi
 cd medical-ai-course-materials
 
